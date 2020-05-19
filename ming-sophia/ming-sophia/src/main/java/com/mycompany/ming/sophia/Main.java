@@ -12,6 +12,7 @@ package com.mycompany.ming.sophia;
 public class Main {
     public static void main(String [] Args){
         System.out.print("hello world");
+        System.out.print("something here");
     }
     
 }
