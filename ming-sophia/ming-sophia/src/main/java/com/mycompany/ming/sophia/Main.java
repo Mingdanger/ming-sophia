@@ -7,7 +7,7 @@ package com.mycompany.ming.sophia;
 
 /**
  *
- * @author 17189
+ * @author ming
  */
 public class Main {
     public static void main(String [] Args){
